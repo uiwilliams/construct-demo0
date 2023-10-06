@@ -33,27 +33,27 @@ const Navbar = () => {
             </li>
             
             <li className="navItem">
-              <a href="#" className="navLink">Packages</a>
-            </li>
-            
-            <li className="navItem">
-              <a href="#" className="navLink">Shop</a>
-            </li>
-            
-            <li className="navItem">
               <a href="#" className="navLink">About</a>
             </li>
             
             <li className="navItem">
-              <a href="#" className="navLink">Pages</a>
+              <a href="#" className="navLink">Services</a>
             </li>
-
+            
             <li className="navItem">
-              <a href="#" className="navLink">News</a>
+              <a href="#" className="navLink">Projects</a>
+            </li>
+            
+            <li className="navItem">
+              <a href="#" className="navLink">Pricing</a>
             </li>
 
             <li className="navItem">
               <a href="#" className="navLink">Contact</a>
+            </li>
+
+            <li className="navItem">
+              <a href="#" className="navLink">Blog</a>
             </li>
 
             <button className='btn'>
