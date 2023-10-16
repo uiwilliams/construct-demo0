@@ -32,9 +32,9 @@ const Navbar = () => {
               <a href="#" className="navLink">Home</a>
             </li>
             
-            <li className="navItem">
+            {/* <li className="navItem">
               <a href="#" className="navLink">About</a>
-            </li>
+            </li> */}
             
             <li className="navItem">
               <a href="#" className="navLink">Services</a>
